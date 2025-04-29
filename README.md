@@ -1,16 +1,28 @@
-## Hi there 👋
+# İslamimerci Derneği
 
-<!--
-**islamimerci/islamimerci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Esselamu aleyküm ve rahmetullahi ve berakatuh
 
-Here are some ideas to get you started:
+## 🌟 Vizyonumuz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Allah'ın dinini anlatmak ve Rasulullah'ın (s.a.v) sünnetini yaymak.
+
+# İslami Mercii Derneği - Resmi Web Sitesi
+
+Bu repo, İslamimerci Derneği için geliştirilen resmi web sitesinin kaynak kodlarını içerir. Amacımız, dernek faaliyetlerinin tanıtılması, etkinliklerin duyurulması ve bilgiye erişimin kolaylaştırılmasıdır.
+
+## 📌 Proje Hakkında
+
+Web sitesi aşağıdaki bölümleri kapsar:
+
+- 📖 Dernek hakkında bilgi
+- 💳 Sanal POS ile bağış ödeme sistemi
+- 📅 Etkinlik ve duyuru takvimi
+- 📷 Galeri ve medya alanı
+- 📄 Belgeler ve duyurular
+- 📍 İletişim ve konum bilgileri
+
+
+
+
+
+**© 2025 İslamimerci Derneği**
